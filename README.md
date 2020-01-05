@@ -1,1 +1,1 @@
-# disposable_email_domains
+A list of disposable email domains as used by StopForumSpam
